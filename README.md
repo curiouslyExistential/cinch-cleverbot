@@ -20,7 +20,7 @@ You can install the latest Cinch-CleverBot gem using RubyGems
 
 Alternatively you can check out the latest code directly from Github
 
-    git clone http://github.com/caitlin/cinch-cleverbot.git
+    git clone http://github.com/curiouslyExistential/cinch-cleverbot.git
 
 ## Usage
 
